@@ -13,4 +13,4 @@ Required python libraries to implement webcam application for emotion classficat
   4. numpy
   5. matplotpib
   
-<img src = "Images/ScreenShot.png" width = "100" height = "50">
+<img src = "Images/Screen Shot 2020-12-07 at 9.41.31 PM.png" width = "100" height = "50">

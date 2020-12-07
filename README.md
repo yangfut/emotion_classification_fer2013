@@ -1,10 +1,11 @@
 # emotion_classification_fer2013
 Developed a real-time webcam system categorizing humans facial expression into fear, sad, angry, happy, disgust etc.
 
-How to implement?
+How to implement this application?
   1. Go to "Webcam" folder
   2. Install required libaraies shown on below
   3. Compile and run "CNN_webcam.py"
+  4. New window pops up and your webcam is applied
 
 Required python libraries to implement webcam application for emotion classfication:
   1. tensorflow

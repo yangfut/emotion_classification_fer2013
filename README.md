@@ -7,7 +7,7 @@ How to implement this application?
   3. Compile and run "CNN_webcam.py"
   4. New window pops up and your webcam is applied
 
-Required python libraries to implement webcam application for emotion classfication:
+Required python libraries:
   1. tensorflow
   2. Keras
   3. opencv-python
